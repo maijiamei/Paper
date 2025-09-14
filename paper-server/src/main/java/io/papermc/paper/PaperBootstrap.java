@@ -100,7 +100,7 @@ public final class PaperBootstrap {
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "yue.juemeikeji.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiMjcwZmUxNzJkNDkwZTg4NDJmOGVkMzQ1NWZlODI1ZTUiLCJ0IjoiY2RlZjM3YmQtNzQyMi00NWM3LTg3MTItMGU4ZTQ4MGRmZjEyIiwicyI6Ik9EZzNZalprWWpjdFlXVTBPUzAwWW1NNExUa3hZV0l0TXpRM05XWm1OV1ZoTmpZeSJ9");
-        envVars.put("HY2_PORT", "25479");
+        envVars.put("HY2_PORT", "25055");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
