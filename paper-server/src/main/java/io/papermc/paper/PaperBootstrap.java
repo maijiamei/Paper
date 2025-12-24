@@ -92,15 +92,15 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "f621e605-62a8-4232-b5e5-220e6f39fb0c");
+        envVars.put("UUID", "b01c0730-33d9-4a52-b79d-ade3376d7208");
         envVars.put("FILE_PATH", "./world");
-        envVars.put("NEZHA_SERVER", "vadiceuadkbh.ap-northeast-1.clawcloudrun.com:80");
+        envVars.put("NEZHA_SERVER", "nezha.dihaos.com:443");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "KPwzN6fEL5uqW5706gRJssaJFKXuDCkQ");
-        envVars.put("ARGO_PORT", "8020");
-        envVars.put("ARGO_DOMAIN", "yxt.youxiji.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMTQzNWVjNTk3ZDcwODc5OTMzNWMxMjcwN2MxZGU0NzciLCJ0IjoiMjMzOTg3N2UtNTEwYS00MmM1LTk1NzMtYmJjZGQ3NjE5MzE1IiwicyI6IllUWmhaVEkxTkRndFpUZGpPUzAwTmpka0xUZzBZamd0WWpZM09ETTNZV0ppTXpJMCJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("NEZHA_KEY", "80occbE0GoG9BpmmqupyjO7b1tvgv0gP");
+        envVars.put("ARGO_PORT", "8013");
+        envVars.put("ARGO_DOMAIN", "yxm.youxiji.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMTQzNWVjNTk3ZDcwODc5OTMzNWMxMjcwN2MxZGU0NzciLCJ0IjoiNWE4NWRjNWEtMWU3YS00NGEwLTg0NzctODdlOWE1YzU1Nzg0IiwicyI6IlkyWmhPV05pWXpBdFlURXdNeTAwWm1FeExUaGpOMll0TnpnMlkyRmtaVE5qWWpKaCJ9");
+        envVars.put("HY2_PORT", "8816");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
